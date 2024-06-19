@@ -11,7 +11,7 @@ v20.14.0
 ## NPM version
 10.7.0
 
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Signity-Software-Solutions/job-search-demo.git)
 cd <project-folder>
 npm install
 # or
