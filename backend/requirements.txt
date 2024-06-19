@@ -1,0 +1,8 @@
+fastapi
+motor
+pydantic
+passlib
+PyJWT
+python-multipart
+fuzzywuzzy
+pymongo
